@@ -1,4 +1,4 @@
-# Robot-Control-Buddy
+# Robot Control Buddy
 "Controller" (Emulates Keyboard) to send Enable/Disable/E-Stop commands FRC Robotics through the FRC Driverstation through keyboard shortcuts
 
 **For ATmega32u4 based Microcontrollers (Arduino Leonardo, Micro, Pro Micro, ect.)**
