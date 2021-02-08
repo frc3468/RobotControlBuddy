@@ -9,7 +9,7 @@ The circuit:
   * Buttons/Switches attached to pins for E-Stop, Disable, and Enable
     * E-STOP - Pin 9
     * DISABLE - Pin 7
-    * ENABLE - Pin 6
+    * ENABLE - Pin 8
   * Other leg of Button/Switch attached to GND
   * If Button/Switch is Normally Closed, reverse digitalRead() Logic
     * Remove Bang(!) from digitalRead() if statements
