@@ -14,20 +14,6 @@
 
   You should have received a copy of the GNU General Public License
   along with this program.  If not, see <https://www.gnu.org/licenses/>.
-
-
-  For ATMega32u4 based Arduinos (Leonardo, Micro, Pro Micro, ect.)
-
-  Monitors input pins and sends FRC Driverstation keyboard shortcuts when they go low.
-
-  The circuit:
-  - Buttons/Switches attached to pins 7,8,9 with Ground on the other leg
-  - If Buttons/Switches are Normally Closed, digitalRead() logic will need to be reversed
-    - remove the bangs(!) from the if statments
-
-  CHANGELOG
-    created 07 Feb 2021
-
 */
 
 #include "Keyboard.h"
