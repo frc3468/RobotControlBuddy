@@ -3,8 +3,6 @@
 
 **For ATmega32u4 based Microcontrollers (Arduino Leonardo, Micro, Pro Micro, ect.)**
 
-Monitors inputs and sends FRC Driverstation Keyboard Shortcuts when inputs go low
-
 ## Circuit
   * Buttons/Switches attached to pins for E-Stop, Disable, and Enable
     * E-STOP - Pin 9
